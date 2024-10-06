@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zolizatokavi.pages.dev/sitemap.xml
